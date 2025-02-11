@@ -6,6 +6,7 @@ Breve descripción del contenido del proyecto:
 - ubicación de las imagenes 
 - ubicación del informe
 
+---
  
 ## 🏗Arquitectura General
 
