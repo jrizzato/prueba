@@ -1,6 +1,6 @@
 # 🐍Descripción del contenido del proyecto 
 
-Breve descripción contenido del proyecto:
+Breve descripción del contenido del proyecto:
 
 - sobre que se trabajó
 - ubicación de las imagenes 
