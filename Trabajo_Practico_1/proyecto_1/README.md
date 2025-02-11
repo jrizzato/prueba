@@ -1,23 +1,22 @@
-# 🐍Nombre del proyecto (darle un nombre significativo) 
+# 🐍Descripción del contenido del proyecto 
 
-Breve descripción del proyecto:
+Breve descripción contenido del proyecto:
 
-Ejemplo: “Esta es una aplicación web construida con el framework [Flask](https://flask.palletsprojects.com/). Permite [describir funcionalidades principales].
+- sobre que se trabajó
+- ubicación de las imagenes 
+- ubicación de informe
 
----
+ 
 ## 🏗Arquitectura General
 
 Explica brevemente cómo está organizado el código (funciones y/o clases)
 
-El diagrama de relaciones entre clases está disponible en la carpeta [docs](./docs) del proyecto.
 
 ---
 ## 📑Dependencias
 
 1. **Python 3.x**
-2. **Flask** (`pip install flask`)
-3. **SQLalchemy** (`pip install sqlalchemy`)
-4. listar dependencias principales
+2. **Matplotlib** para gráficos (pip install matplotlib)
 5. Dependencias listadas en requierements.txt
 
 ---
@@ -36,14 +35,7 @@ El diagrama de relaciones entre clases está disponible en la carpeta [docs](./d
 ## 💻Uso de la aplicación
 
 Explica la funcionalidad de tu aplicación:  
-- Cómo se navega por las rutas o URLs.
-- Si requiere autenticación, describe el flujo de login o registro.
 
-**Ejemplo**:
-- **Ruta principal** (`/`): muestra la página de inicio.
-- **Ruta de usuario** (`/user/<id>`): muestra información del usuario.
-
----
 
 ## 🙎‍♀️🙎‍♂️Autores
 
